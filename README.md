@@ -1,2 +1,2 @@
 # ComfyUI-BRN
-reworked ComfyUI nodes for my journey
+some ComfyUI stuff ive modified for my use
