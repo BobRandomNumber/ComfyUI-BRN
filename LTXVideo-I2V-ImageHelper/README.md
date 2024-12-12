@@ -7,8 +7,6 @@ will be in image catagory
 
 code from XmYx (https://github.com/XmYx) and melMass
 
-https://github.com/melMass/comfy_mtb/blob/main/nodes/ltx.py
-
 https://github.com/melMass/comfy_mtb/commit/e32d1e02df5e3a9351f829513f7ee3ffb2934be4
 
-Thank you
+https://github.com/melMass/comfy_mtb/blob/main/nodes/ltx.py
