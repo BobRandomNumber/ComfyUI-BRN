@@ -5,7 +5,7 @@ ComfyUI nodes to encode image with H264 or H265 compression to be used with LTXV
 Put file/s in ComfyUI\custom_nodes
 will be in image catagory
 
-code from XmYx(https://github.com/XmYx) and melMass
+code from XmYx (https://github.com/XmYx) and melMass
 
 https://github.com/melMass/comfy_mtb/blob/main/nodes/ltx.py
 
