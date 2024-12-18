@@ -10,3 +10,6 @@ code from XmYx (https://github.com/XmYx) and melMass
 https://github.com/melMass/comfy_mtb/commit/e32d1e02df5e3a9351f829513f7ee3ffb2934be4
 
 https://github.com/melMass/comfy_mtb/blob/main/nodes/ltx.py
+
+
+![hnodes](https://github.com/user-attachments/assets/54baba95-e905-4a43-af20-8b2cbed9552a)
