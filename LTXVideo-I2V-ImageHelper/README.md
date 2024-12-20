@@ -1,5 +1,7 @@
 # LTXVideo-I2V-ImageHelper
 
+# ### No longer needed with ltx-video-2b-v0.9.1
+
 ComfyUI nodes to encode image with H264 or H265 compression to be used with LTXVideo
 
 Put file/s in ComfyUI\custom_nodes
